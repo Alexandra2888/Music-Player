@@ -17,7 +17,7 @@ body {
   font-size: 12px;
 }
 
-.player_container {
+.player-container {
   height: 500px;
   width: 400px;
   background: #e7e7e7;
@@ -25,7 +25,7 @@ body {
   box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3);
 }
 
-.img__container {
+.img-container {
   width: 300px;
   height: 300px;
   position: relative;
@@ -33,7 +33,7 @@ body {
   left: 50px;
 }
 
-.img_container img {
+.img-container img {
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -55,7 +55,7 @@ h3 {
 }
 
 /* Progress */
-.progress_container {
+.progress-container {
   background: #fff;
   border-radius: 5px;
   cursor: pointer;
@@ -72,7 +72,7 @@ h3 {
   transition: width 0.1s linear;
 }
 
-.duration_wrapper {
+.duration-wrapper {
   position: relative;
   top: -25px;
   display: flex;
@@ -80,7 +80,7 @@ h3 {
 }
 
 /* Controls */
-.player_controls {
+.player-controls {
   position: relative;
   top: -15px;
   left: 120px;
@@ -99,7 +99,7 @@ h3 {
   filter: brightness(80%);
 }
 
-.main_button {
+.main-button {
   font-size: 40px;
   position: relative;
   top: 3px;
@@ -107,7 +107,7 @@ h3 {
 
 /* Media Query: iPhone (Vertical) */
 @media screen and (max-width: 376px) {
-  .player_container {
+  .player-container {
     width: 95vw;
   }
 
@@ -123,7 +123,7 @@ h3 {
     font-size: 15px;
   }
 
-  .player_controls {
+  .player-controls {
     top: -10px;
     left: 100px;
   }
