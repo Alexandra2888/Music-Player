@@ -2,6 +2,8 @@ Music Player
 Description
 An app that plays your favourite music.
 
+# You can see application live here: https://angry-cray-d85aa2.netlify.app/
+
 Getting Started
 Prerequisites
 NodeJS and NPM should be installed.
