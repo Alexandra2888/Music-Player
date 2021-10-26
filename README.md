@@ -1,3 +1,7 @@
+<img  width=“964” alt="music" src="https://github.com/Alexandra2888/Music-Player/blob/main/collage.png'>
+
+
+
 Music Player
 Description
 An app that plays your favourite music.
