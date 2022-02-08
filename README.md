@@ -25,6 +25,6 @@ All the files are located in vanilla_js_site.
 Open index.html in the browser or if using VS Code the Live Server extension is recommended.
 
 
-<h2>You can see application live here: https://angry-cray-d85aa2.netlify.app/</h2>
+<h2>You can see application live here: https://js-music-app-js.netlify.app/</h2>
 
 
